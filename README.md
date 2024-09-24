@@ -10,23 +10,30 @@
 <hr>
 
 ## ✔️ Experiences in : 
+- Ecommerce and Web page development
+- HTML, CSS, JavaScript, Layouts, Front-end
+- Google Cloud Platform (GCP) API Integration, GTM, and Analytics
+- WordPress, WooCommerce, Elementor
+- AI Ollama LM Studio OpenWebUi OpenAI APIs
 - API Integrations
 - Export via XML
 - Excel: Product Pricing, Web Data, CSV, Power Query
-- WordPress and Extensions
 - Domain Registration, Corporate E_mail MX, SPF, DKIM, DMARC
 - Bling ERP, Tray Systems
 - Bug fixes
-- Ecommerce 
 
 ## 👩🏽‍💻📚 Developing Skills:
-- Landing page development
-- HTML, CSS, JavaScript, Layouts, Front-end
+
 - Python
-- Development and testing with Django, Postgres and APIs
-- SQL and databases
-- Front and back-end integration
-- Creating microservices
+- Javascript 
+- Django
+- Rest API
+- Postgres SQL and databases
+- Docker
+- Microservices
+- TypeScript
+- React
+- html, css
 <hr>
 
 ## 🚀 Projects
@@ -34,7 +41,7 @@
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/maxh33)
 
-## Personal Ecommerce
+## Personal Ecommerce Developed 
 
 [![Ecommerce Joiasmax](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.joiasmax.com.br/)
 
