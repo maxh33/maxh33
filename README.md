@@ -10,30 +10,32 @@
 <hr>
 
 ## ✔️ Experiences in : 
+- Blockchain - Cryptocurrency - Crypto Mining
 - Ecommerce and Web page development
 - HTML, CSS, JavaScript, Layouts, Front-end
 - Google Cloud Platform (GCP) API Integration, GTM, and Analytics
 - WordPress, WooCommerce, Elementor
-- AI Ollama LM Studio OpenWebUi OpenAI APIs
+- AI Ollama LM Studio OpenWebUi OpenAI APIs Local LLms
 - API Integrations
 - Export via XML
 - Excel: Product Pricing, Web Data, CSV, Power Query
-- Domain Registration, Corporate E_mail MX, SPF, DKIM, DMARC
+- Custom Email Alias - Domain Setup
 - Bling ERP, Tray Systems
 - Bug fixes
+- AWS free tier
+- Virtual Environments - Proxmox - VirtualBox
 
 ## 👩🏽‍💻📚 Developing Skills:
 
 - Python
-- Javascript 
-- Django
-- Rest API
-- Postgres SQL and databases
+- Javascript - TypeScript
+- Microservices - Django - Rest API
+- Postgres SQL
+- Heroku
 - Docker
-- Microservices
-- TypeScript
-- React
-- html, css
+- React - VueJs - Redux
+- Cypress
+- html - css
 <hr>
 
 ## 🚀 Projects
