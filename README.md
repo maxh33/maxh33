@@ -3,7 +3,7 @@
 # <img align="center" alt="obiWanFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1645030248/53068/obi_wan.png?1645030248"><img align="center" alt="blueLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514347/3217/bluelightsaber.png?1643514347"> Hello There! I'm Max <img align="center" alt="redLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514354/3290/evillightsaber.png?1643514354"><img align="center" alt="darthVaderFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514056/131/darth_vader.png?1643514056"> Full stack Python dev
 
 <a href="https://github.com/maxh33"></a>
-<img height="278" src="https://github-readme-stats.vercel.app/api?username=maxh33&count_private=true&show_icons=true&theme=apprentice&show=prs_merged,prs_merged_percentage"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=maxh33&count_private=true&show_icons=true&theme=apprentice&show=prs_merged,prs_merged_percentage"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxh33&size_weight=1&count_weight=0&theme=apprentice&langs_count=7&hide=html&layout=donut"/>
 </div>
 
