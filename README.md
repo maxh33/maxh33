@@ -1,43 +1,31 @@
 <div align="center">
 
-# <img align="center" alt="obiWanFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1645030248/53068/obi_wan.png?1645030248"><img align="center" alt="blueLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514347/3217/bluelightsaber.png?1643514347"> Hello There! I'm Max <img align="center" alt="redLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514354/3290/evillightsaber.png?1643514354"><img align="center" alt="darthVaderFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514056/131/darth_vader.png?1643514056"> Full stack Python dev
+# <img align="center" alt="obiWanFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1645030248/53068/obi_wan.png?1645030248"><img align="center" alt="blueLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514347/3217/bluelightsaber.png?1643514347"> Hello There! I'm Max <img align="center" alt="redLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514354/3290/evillightsaber.png?1643514354"><img align="center" alt="darthVaderFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514056/131/darth_vader.png?1643514056"> Full Stack Dev
 
 <a href="https://github.com/maxh33"></a>
-<img height="278" src="https://github-readme-stats.vercel.app/api?username=maxh33&count_private=true&show_icons=true&theme=apprentice&show=prs_merged,prs_merged_percentage"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxh33&size_weight=1&count_weight=0&theme=apprentice&langs_count=7&hide=html&layout=donut"/>
+<img height="228" src="https://github-readme-stats.vercel.app/api?username=maxh33&count_private=true&show_icons=true&theme=apprentice&show=prs_merged,prs_merged_percentage"/>
+<img height="344" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxh33&size_weight=1&count_weight=0&theme=apprentice&langs_count=7&hide=html&layout=donut"/>
 </div>
 
 <div>
 
-## ✔️ Experiences in : 
-- Blockchain - Cryptocurrency - Crypto Mining
-- Ecommerce and Web page development
-- HTML, CSS, JavaScript, Layouts, Front-end
-- Google Cloud Platform (GCP) API Integration, GTM, and Analytics
-- WordPress, WooCommerce, Elementor
-- AI Ollama LM Studio OpenWebUi OpenAI APIs Local LLms
-- API Integrations
-- Export via XML
-- Excel: Product Pricing, Web Data, CSV, Power Query
-- Custom Email Alias - Domain Setup
-- Bling ERP, Tray Systems
-- Bash
-- Scripts
-- Bug fixes
-- AWS free tier
-- Virtual Environments - Proxmox - VirtualBox
+## ✔️ Experiences in:
+- Scripting & Linux: Bash, Scripts, Linux
+- AI & Machine Learning: AI Trainer, Ollama LM Studio, OpenWebUi, OpenAI APIs, Local LLms
+- Cloud & Virtualization: AWS free tier, Google Cloud Platform (GCP) API Integration, GTM, Analytics, Virtual Environments (Proxmox, VirtualBox)
+- Web Development: HTML, CSS, JavaScript, Front-end Layouts, WordPress, WooCommerce, Elementor, Ecommerce, Web page development
+- API & Integrations: API Integrations, Export via XML
+- Blockchain & Cryptocurrency: Blockchain, Cryptocurrency, Crypto Mining
+- Data & Automation: Excel (Product Pricing, Web Data, CSV, Power Query), Custom Email Alias, Domain Setup
+- ERP Systems: Bling ERP, Tray Systems
+- Miscellaneous: Bug fixes, Smart Home, Automation, Routine
 
 ## 👩🏽‍💻📚 Developing Skills:
 
-- Python
-- Javascript - TypeScript
-- Microservices - Django - Rest API
-- Postgres SQL
-- Heroku
-- Docker
-- React - VueJs - Redux
-- Cypress
-- html - css
+- Languages: Python, JavaScript, TypeScript
+- Frameworks & Libraries: Microservices, Django, Rest API, React, VueJs, Redux, Cypress
+- Databases: Postgres SQL
+- Deployment & DevOps: Heroku, Docker
 </div>
 
 <div>
