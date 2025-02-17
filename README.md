@@ -4,7 +4,7 @@
 
 <a href="https://github.com/maxh33"></a>
 <img height="228" src="https://github-readme-stats.vercel.app/api?username=maxh33&count_private=true&show_icons=true&theme=apprentice&show=prs_merged,prs_merged_percentage"/>
-<img height="344" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxh33&size_weight=1&count_weight=0&theme=apprentice&langs_count=7&hide=html&layout=donut"/>
+<img height="344" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxh33&size_weight=1&count_weight=0&theme=apprentice&langs_count=7&hide=html,CSS,scss&layout=donut"/>
 </div>
 
 <div>
