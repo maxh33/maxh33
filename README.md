@@ -15,12 +15,14 @@
 - **Frameworks & Libraries**: Microservices, Django, Rest API, React, VueJs, Redux, Cypress
 - **Databases**: Postgres SQL, MongoDB
 - **Deployment & DevOps**: Heroku, Docker, GitHub Actions, GitHub Container Registry, Docker Compose, Jenkins, Render.com, Vercel
+- **Architecture Components**: Microservices-based Design, MongoDB Data Storage, Real-time Metrics Collection, Custom Dashboards
+- **Message Queue Integration**: RabbitMQ with CloudAMQP, Kafka, Secure Configuration, Reliable Message Queuing
 - **Monitoring Setup**: Prometheus, Grafana, Custom Health Checks with prometheus-client
 
 ## ✔️ Experiences in:
 
 - **Scripting & Linux**: Bash, Scripts, Linux
-- **AI & Machine Learning**: AI Trainer, Ollama LM Studio, OpenWebUi, OpenAI APIs, Local LLMs
+- **AI & Machine Learning**: AI Trainer(outlier.ai), Ollama LM Studio, OpenWebUi, OpenAI APIs, Local LLMs
 - **Cloud & Virtualization**: AWS free tier, Google Cloud Platform (GCP) API Integration, GTM, Analytics, Virtual Environments (Proxmox, VirtualBox)
 - **Web Development**: HTML, CSS, JavaScript, Front-end Layouts, WordPress, WooCommerce, Elementor, Ecommerce, Web page development
 - **API & Integrations**: API Integrations, Export via XML
@@ -28,8 +30,7 @@
 - **Data & Automation**: Excel (Product Pricing, Web Data, CSV, Power Query), Custom Email Alias, Domain Setup
 - **ERP Systems**: Bling ERP, Tray Systems
 - **Miscellaneous**: Bug fixes, Smart Home, Automation, Routine
-- **Architecture Components**: Microservices-based Design, MongoDB Data Storage, Real-time Metrics Collection, Custom Dashboards
-- **Message Queue Integration**: RabbitMQ with CloudAMQP, Kafka, Secure Configuration, Reliable Message Queuing
+
 
 
 </div>
