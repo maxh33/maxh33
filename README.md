@@ -12,12 +12,14 @@
 ## 👩🏽‍💻📚 Developing Skills:
 
 - **Languages**: Python, JavaScript, TypeScript, C#
-- **Frameworks & Libraries**: Microservices, Django, Rest API, React, VueJs, Redux, Cypress
-- **Databases**: Postgres SQL, MongoDB
-- **Deployment & DevOps**: Heroku, Docker, GitHub Actions, GitHub Container Registry, Docker Compose, Jenkins, Render.com, Vercel
-- **Architecture Components**: Microservices-based Design, MongoDB Data Storage, Real-time Metrics Collection, Custom Dashboards
-- **Message Queue Integration**: RabbitMQ with CloudAMQP, Kafka, Secure Configuration, Reliable Message Queuing
-- **Monitoring Setup**: Prometheus, Grafana, Custom Health Checks with prometheus-client
+- **Frameworks**: Django, Rest API, React, Vue.js, Next.js **State Management**: Redux **Testing**: Cypress, Jest
+- **Databases**: *SQL*: PostgreSQL, MySQL *NoSQL*: MongoDB *Tools*: DBeaver
+- **Infrastructure & DevOps**: Docker, Docker Compose, GitHub Container Registry, Jenkins
+- **CI/CD & Automation**: GitHub Actions, Jenkins
+- **Architecture Components**: Microservices-based Design
+- **Message Queue Integration**: RabbitMQ with CloudAMQP, Apache Kafka
+- **Cloud Platforms & Deployment**: Render.com, Vercel, Heroku
+- **Monitoring Setup**: Prometheus, Grafana, Custom Health Checks with prometheus-client, Custom Dashboards, Real-time Metrics Collection
 
 ## ✔️ Experiences in:
 
