@@ -12,7 +12,8 @@
 ## 👩🏽‍💻📚 Developing Skills:
 
 - **Languages**: Python, JavaScript, TypeScript, C#
-- **Frameworks**: Django, Rest API, React, Vue.js, Next.js **State Management**: Redux **Testing**: Cypress, Jest
+- **Frameworks**: Django, Rest API, React, Vue.js, Next.js
+- **State Management**: Redux **Testing**: Cypress, Jest
 - **Databases**: *SQL*: PostgreSQL, MySQL *NoSQL*: MongoDB *Tools*: DBeaver
 - **Infrastructure & DevOps**: Docker, Docker Compose, GitHub Container Registry, Jenkins
 - **CI/CD & Automation**: GitHub Actions, Jenkins
@@ -24,7 +25,7 @@
 ## ✔️ Experiences in:
 
 - **Scripting & Linux**: Bash, Scripts, Linux
-- **AI & Machine Learning**: AI Trainer(outlier.ai), Ollama LM Studio, OpenWebUi, OpenAI APIs, Local LLMs
+- **AI & Machine Learning**: AI Trainer(outlier.ai), Ollama LM Studio, OpenWebUi, OpenAI APIs, Local LLMs, MCP
 - **Cloud & Virtualization**: AWS free tier, Google Cloud Platform (GCP) API Integration, GTM, Analytics, Virtual Environments (Proxmox, VirtualBox)
 - **Web Development**: HTML, CSS, JavaScript, Front-end Layouts, WordPress, WooCommerce, Elementor, Ecommerce, Web page development
 - **API & Integrations**: API Integrations, Export via XML
