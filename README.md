@@ -8,7 +8,9 @@
 </div>
 
 <div>
-
+  
+![](https://komarev.com/ghpvc/?username=maxh33&label=PROFILE+VIEWS)
+  
 ## 👩🏽‍💻📚 Developing Skills:
 
 - **Languages**: Python, JavaScript, TypeScript, C#
