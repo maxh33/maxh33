@@ -46,7 +46,7 @@
 - **API & Integrations**: Various API integrations, Export via XML
 - **Blockchain & Cryptocurrency**: Blockchain technologies, Crypto Mining
 - **Data & Automation**:  Power Query, Custom Email Alias, Domain Setup
-- **Email & Communication**: Email Alias, Domain Setup, STMP, 
+- **Email & Communication**: Email Alias, Domain Setup, SMTP, Mailtrap, SendGrid, Resend
 - **ERP Systems**: Bling ERP, Tray Systems
 - **Development Tools**: Figma, ESLint, Gulp, Postman, DBeaver, VSCode
 
