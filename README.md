@@ -12,6 +12,12 @@
 
 ![](https://komarev.com/ghpvc/?username=maxh33&label=PROFILE+VIEWS)
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2046%20mins-blue)
+
+
+<!--END_SECTION:waka-->
+
 ### Portfolio Website
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://maxhaider.dev/en)
 
