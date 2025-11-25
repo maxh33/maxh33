@@ -53,11 +53,21 @@
 - **Blockchain & Cryptocurrency**: Blockchain technologies, Crypto Mining
 - **Data & Automation**:  Power Query, Custom Email Alias, Domain Setup
 - **Email & Communication**: Email Alias, Domain Setup, SMTP, Mailtrap, SendGrid, Resend
-- **ERP Systems**: Bling ERP, Tray Systems
+- **ERP Systems**: Odoo, Bling ERP, Tray Systems
 - **Development Tools**: Figma, ESLint, Gulp, Postman, DBeaver, VSCode
 
 ## 🚀 Recent Projects
-
+- **Odoo Multitenant Platform** Odoo 18 (Python) multi-tenant ERP with tenant templates, n8n automation and Docker/Trafik deployment,
+  templates (jewelry, retail, manufacturing), automated workflows and deployment automation
+- **KodaLabs CMS** TypeScript/Node headless CMS (Payload v2 + PostgreSQL) built for multi-tenant sites and VPS production with Docker and AI-driven content tools
+- **Automation Platform** n8n automation workflows with cron and Telegram bots integration, self hosted on private VPS with CD/CD using GitHub Actions & security-scan
+- **TOON Implementation** TypeScript + Python toolkit implementing the TOON format (encoder/decoder, CLI, framework adapters) for token-efficient LLM data  
+  Includes npm package, Next.js/Django/Payload adapters, benchmarks (30–60% token savings), and Spec-Kit integration for spec-driven LLM workflows
+- **PJ vs CLT Calculator** Next.js + TypeScript calculator for Brazilian tax comparisons with i18n, scenario planning and updated 2025 tax tables
+  Built for accuracy and explainability with a config-driven engine, deployment docs and SEO-ready pages
+- **KodaLabs Landing** TypeScript Next.js landing-site template with a flexible business configuration system, template variants and production deployment scripts,  
+  Fast to customize and deploy, focused on agency/portfolio use-cases and professional presentations
+- **PhantomRaven (npm vulnerability scanner)** CLI scanner + GitHub Action: integrity hash verification, trusted domain support, enhanced detection and CI/CD integration for supply-chain security
 - **Containerized Web Infrastructure**: Complete Docker-based setup with Traefik, SSL, monitoring, and automated deployment
 - **Real-Time Analytics Platform**: Microservices with Node.js, MongoDB, and RabbitMQ for social media metrics
 - **E-commerce Optimization**: Performance-tuned WordPress/WooCommerce with 91/100 mobile PageSpeed
@@ -65,11 +75,9 @@
 - **Portfolio Website**: Next.js with TypeScript, i18n support, and responsive design
 
 ## 🌱 Currently Learning
-- Advanced AI model training and optimization
 - Distributed systems architecture
 - Kubernetes orchestration
-- N8N
-- C#
+- .net, C#
 
 <div align="center">
   <h2>📧 How to reach me: contact@maxhaider.dev</h2>
