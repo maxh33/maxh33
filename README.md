@@ -21,6 +21,12 @@
 ### Portfolio Website
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://maxhaider.dev/en)
 
+### Watch my 2025 presentation: background, career highlights, and project overviews
+<a href="https://youtu.be/OZsiLWaNaBA" target="_blank">
+  <img src="https://raw.githubusercontent.com/maxh33/static-server-images/bf15ca7a6f2cfbef7fa19f56cc36ec044cc2b337/max-2025-Trumbnail-with-play-button.webp" 
+       alt="Watch my 2025 presentation — background, career & projects">
+</a>
+
 ## 🛠️ Technical Arsenal
 
 ### Languages & Frameworks
