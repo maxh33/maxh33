@@ -30,10 +30,10 @@
 ## 🛠️ Technical Arsenal
 
 ### Languages & Frameworks
-- **Frontend**: TypeScript, React, Next.js, Vue.js, Tailwind CSS, Bootstrap, Electron
+- **Frontend**: TypeScript, React, Next.js, Vue.js, Vite, Tailwind CSS, Bootstrap, Electron
 - **Backend**: Python (Django, FastAPI), Node.js (TypeScript, Express), REST APIs
 - **State Management**: Redux
-- **Testing**: Cypress, Jest
+- **Testing**: Playwright, Cypress, Jest
 - **Data & Analytics**: Pandas, PyTorch, Jupyter, PostgreSQL, MongoDB
 
 ### DevOps & Infrastructure
@@ -47,7 +47,7 @@
 ### AI & Machine Learning
 - AI Trainer (Outlier.ai)
 - Local LLM implementation (Ollama, LM Studio, OpenWebUI)
-- OpenAI API integrations
+- OpenAI, Claude API integrations
 - Machine Learning with Python
 
 ## ✔️ Additional Experience
