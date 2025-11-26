@@ -29,56 +29,42 @@
 
 ## 🛠️ Technical Arsenal
 
-### Languages & Frameworks
-- **Frontend**: TypeScript, React, Next.js, Vue.js, Vite, Tailwind CSS, Bootstrap, Electron
-- **Backend**: Python (Django, FastAPI), Node.js (TypeScript, Express), REST APIs
-- **State Management**: Redux
-- **Testing**: Playwright, Cypress, Jest
-- **Data & Analytics**: Pandas, PyTorch, Jupyter, PostgreSQL, MongoDB
+*   **Backend:** Python (Django, FastAPI), Node.js (Express) | REST APIs | C# (.NET)
+*   **Frontend:** TypeScript, React, Next.js, Vue.js, Vite, Electron | Redux | Tailwind CSS, Bootstrap
+*   **Databases & Data:** PostgreSQL, MongoDB | Pandas, PyTorch, Jupyter | RabbitMQ
+*   **DevOps & Infrastructure:** Docker, Docker Compose, Kubernetes | CI/CD (GitHub Actions, Jenkins) | Prometheus, Grafana | Proxmox, Bash, SSH
+*   **Cloud & Networking:** AWS (S3,EC2), GCP, Digital Ocean, Vercel, Cloudflare | Traefik, Nginx
+*   **AI & Machine Learning:** Local LLMs (Ollama), API Integration (OpenAI, Claude), AI Training | Spec-Driven LLM Workflows (TOON)
+*   **CMS & ERP:** Payload CMS (Headless), WordPress, WooCommerce | Odoo, Bling ERP
 
-### DevOps & Infrastructure
-- **Containerization**: Docker, Docker Compose, GitHub Container Registry, Portainer
-- **CI/CD**: GitHub Actions, Jenkins
-- **Monitoring**: Prometheus, Grafana, Custom Health Checks
-- **Cloud**: Google Cloud, Digital Ocean, AWS, Vercel, Cloudflare
-- **Messaging**: RabbitMQ
-- **Security & Networking**: Traefik, Nginx
 
-### AI & Machine Learning
-- AI Trainer (Outlier.ai)
-- Local LLM implementation (Ollama, LM Studio, OpenWebUI)
-- OpenAI, Claude API integrations
-- Machine Learning with Python
+## 🏆 Professional Competencies
 
-## ✔️ Additional Experience
-- **Languages**: English (C1), Portuguese (Native), Spanish (B1)
-- **Scripting & Linux**: Bash, SSH, Ubuntu, Linux
-- **Cloud & Virtualization**: AWS, GCP API Integration, Proxmox, Virtual Environments
-- **Web Development**: WordPress, WooCommerce, Elementor, E-commerce
-- **API & Integrations**: Various API integrations, Export via XML
-- **Blockchain & Cryptocurrency**: Blockchain technologies, Crypto Mining
-- **Data & Automation**:  Power Query, Custom Email Alias, Domain Setup
-- **Email & Communication**: Email Alias, Domain Setup, SMTP, Mailtrap, SendGrid, Resend
-- **ERP Systems**: Odoo, Bling ERP, Tray Systems
-- **Development Tools**: Figma, ESLint, Gulp, Postman, DBeaver, VSCode
+*   **Languages:** English (C1), Portuguese (Native), Spanish (B1)
+*   **Business & E-commerce:** Odoo, Bling ERP, WordPress, WooCommerce, Elementor
+*   **Development Tools:** Figma, Postman, DBeaver, VSCode, PyCharm, ESLint
+*   **Communication & Integrations:** SMTP (SendGrid, Resend, Zoho), Mailtrap, Custom Domain/Email Setup, Various API integrations
 
 ## 🚀 Recent Projects
 - **Odoo Multitenant Platform** Odoo 18 (Python) multi-tenant ERP with tenant templates, n8n automation and Docker/Trafik deployment,
-  templates (jewelry, retail, manufacturing), automated workflows and deployment automation
-- **KodaLabs CMS** TypeScript/Node headless CMS (Payload v2 + PostgreSQL) built for multi-tenant sites and VPS production with Docker and AI-driven content tools
-- **Automation Platform** n8n automation workflows with cron and Telegram bots integration, self hosted on private VPS with CD/CD using GitHub Actions & security-scan
-- **TOON Implementation** TypeScript + Python toolkit implementing the TOON format (encoder/decoder, CLI, framework adapters) for token-efficient LLM data  
-  Includes npm package, Next.js/Django/Payload adapters, benchmarks (30–60% token savings), and Spec-Kit integration for spec-driven LLM workflows
-- **PJ vs CLT Calculator** Next.js + TypeScript calculator for Brazilian tax comparisons with i18n, scenario planning and updated 2025 tax tables
-  Built for accuracy and explainability with a config-driven engine, deployment docs and SEO-ready pages
+  templates (jewellery, retail, manufacturing), automated workflows and deployment automation 🔒
+- **KodaLabs CMS** TypeScript/Node headless CMS (Payload v2 + PostgreSQL) built for multi-tenant sites and VPS production with Docker and AI-driven content tools 🔒
+- **Automation Platform** n8n automation workflows with cron and Telegram bots integration, self hosted on private VPS with CD/CD using GitHub Actions & security-scan **[Demo](https://github.com/maxh33/automation-platform-public)**
+- **TOON Implementation** TypeScript + Python toolkit implementing the TOON format (encoder/decoder, CLI, framework adapters) for token-efficient LLM data 
+  Includes npm package, Next.js/Django/Payload adapters, benchmarks (30–60% token savings), and Spec-Kit integration for spec-driven LLM workflows **[Demo](https://github.com/Koda-Labs-Development/toon-implementation)**
+- **PJ vs CLT Calculator** Next.js + TypeScript calculator for Brazilian tax comparisons with i18n, scenario planning and updated 2025 tax tables 
+  Built for accuracy and explainability with a config-driven engine, deployment docs and SEO-ready pages **[Live](https://pjouclt.com.br/)**
+- **Whisper Live Writer (Real-Time Transcription):** A real-time audio transcription application using OpenAI's Whisper model. Features a Python backend for processing the audio stream and a web-based frontend to display the live text. 🔒
 - **KodaLabs Landing** TypeScript Next.js landing-site template with a flexible business configuration system, template variants and production deployment scripts,  
-  Fast to customize and deploy, focused on agency/portfolio use-cases and professional presentations
-- **PhantomRaven (npm vulnerability scanner)** CLI scanner + GitHub Action: integrity hash verification, trusted domain support, enhanced detection and CI/CD integration for supply-chain security
-- **Containerized Web Infrastructure**: Complete Docker-based setup with Traefik, SSL, monitoring, and automated deployment
-- **Real-Time Analytics Platform**: Microservices with Node.js, MongoDB, and RabbitMQ for social media metrics
-- **E-commerce Optimization**: Performance-tuned WordPress/WooCommerce with 91/100 mobile PageSpeed
-- **Food E-commerce Platform**: React, Redux, TypeScript application with multi-step checkout
-- **Portfolio Website**: Next.js with TypeScript, i18n support, and responsive design
+  Fast to customize and deploy, focused on agency/portfolio use-cases and professional presentations **[Live](https://kodalabs.dev/)**
+- **PhantomRaven (npm vulnerability scanner)** CLI scanner + GitHub Action: integrity hash verification, trusted domain support, enhanced detection and CI/CD integration for supply-chain security **[Repository](https://github.com/maxh33/phantom-raven-npm-vulnerability-scanner)**
+- **Containerized Web Infrastructure**: VPS Complete Docker-based setup with Traefik, SSL, monitoring, and automated deployment 🔒
+- **Real-Time Analytics Platform**: Microservices with Node.js, MongoDB, and RabbitMQ for social media metrics using Prometheus and Grafana **[Demo](https://github.com/maxh33/pulse-flow)**
+- **Enterprise Employee Registration:** A complex, multi-step registration portal built with Next.js and TypeScript. Features robust state management, dynamic form validation, and a secure Firestore backend. A prime example of a large-scale, data-intensive web application. **[Demo](https://github.com/maxh33/multi-step-employee-registration)**
+- **E-commerce Migration & Optimization**: Infra migration and Performance-tuned WordPress/WooCommerce with 91/100 mobile PageSpeed **[Live](https://joiasmax.com.br)**
+- **Food E-commerce Platform**: React, Redux, TypeScript application with multi-step checkout **[Demo](https://www.youtube.com/watch?v=M0KwOK_cslY)**
+- **Ghost Helper (Stealth Screenshot Tool):** A cross-platform desktop application built with Electron and React, featuring a C++ core for native OS interaction. Designed to operate discreetly, demonstrating expertise in system-level integration. 🔒 **[Demo-soon]**
+- **Portfolio Website**: Next.js with TypeScript, i18n support, and responsive design **[Live](https://maxhaider.dev)**
 
 ## 🌱 Currently Learning
 - Distributed systems architecture
