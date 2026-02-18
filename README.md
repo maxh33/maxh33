@@ -2,7 +2,7 @@
   <h1>
     <img align="center" alt="obiWanFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1645030248/53068/obi_wan.png?1645030248"><img align="center" alt="blueLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514347/3217/bluelightsaber.png?1643514347"> Hello There! I'm Max <img align="center" alt="redLightsaber" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514354/3290/evillightsaber.png?1643514354"><img align="center" alt="darthVaderFace" height="30" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514056/131/darth_vader.png?1643514056">
   </h1>
-  <p>Full Stack Developer specializing in TypeScript, Python, and containerized applications. I build scalable web solutions and microservices architectures that deliver exceptional performance and user experiences.</p>
+  <p>Backend focused developer building scalable APIs, microservices, and cloud infrastructure. From server architecture to deployment delivering systems that reduce costs and improve performance.</p>
   
   <a href="https://github.com/maxh33">
     <img height="228" src="https://stats.maxhaider.dev/api?username=maxh33&count_private=true&show_icons=true&theme=apprentice&show=prs_merged,prs_merged_percentage"/>
@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=maxh33&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2046%20mins-blue)
 
 
 <!--END_SECTION:waka-->
@@ -67,9 +67,9 @@
 - **Portfolio Website**: Next.js with TypeScript, i18n support, and responsive design **[Live](https://maxhaider.dev)**
 
 ## 🌱 Currently Learning
+- Bachelor's in Computer Science at Cruzeiro do Sul (2026–2029)
 - Distributed systems architecture
 - Kubernetes orchestration
-- .net, C#
 
 <div align="center">
   <h2>📧 How to reach me: contact@maxhaider.dev</h2>
